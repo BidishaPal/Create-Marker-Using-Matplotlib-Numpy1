@@ -5,5 +5,6 @@
 ## Code 2: X Marker
 ![image](https://github.com/user-attachments/assets/b73094e5-c93a-4d0b-af01-b58b3844a919)##
 
-## Code 3:
+## Code 3: Marker Line Color
+![image](https://github.com/user-attachments/assets/1d5981f9-87b9-42df-adfa-8ec9c171baf9)
 
